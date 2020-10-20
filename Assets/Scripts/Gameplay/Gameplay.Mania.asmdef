@@ -1,0 +1,21 @@
+{
+    "name": "Gameplay.Mania",
+    "references": [
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:eb7f07302d7b85240b292eee2fe723bf",
+        "GUID:fc0061fa3b67f54429994d158814a52a",
+        "GUID:c685d05731421f64287ad6d13be5af0e",
+        "GUID:be0cd4a27ea9eb94d838820927b0aa66"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

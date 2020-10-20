@@ -1,0 +1,305 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!128 &12800000
+Font:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: combofont
+  serializedVersion: 5
+  m_LineSpacing: 120
+  m_DefaultMaterial: {fileID: 6061076526967425517}
+  m_FontSize: 32
+  m_Texture: {fileID: 0}
+  m_AsciiStartOffset: 0
+  m_Tracking: 1
+  m_CharacterSpacing: 0
+  m_CharacterPadding: 1
+  m_ConvertCase: 0
+  m_CharacterRects:
+  - serializedVersion: 2
+    index: 0
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 1
+      width: 0
+      height: 0
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 0
+      height: 0
+    advance: 0
+    flipped: 0
+  - serializedVersion: 2
+    index: 48
+    uv:
+      serializedVersion: 2
+      x: 0.48591548
+      y: 0.33435583
+      width: 0.23943663
+      height: 0.33128834
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 14
+      width: 68
+      height: -108
+    advance: 69
+    flipped: 0
+  - serializedVersion: 2
+    index: 49
+    uv:
+      serializedVersion: 2
+      x: 0.5880282
+      y: 0.006134957
+      width: 0.098591566
+      height: 0.32515338
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 13
+      width: 28
+      height: -106
+    advance: 29
+    flipped: 0
+  - serializedVersion: 2
+    index: 50
+    uv:
+      serializedVersion: 2
+      x: 0.72887325
+      y: 0.33435583
+      width: 0.23943663
+      height: 0.33128834
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 14
+      width: 68
+      height: -108
+    advance: 69
+    flipped: 0
+  - serializedVersion: 2
+    index: 51
+    uv:
+      serializedVersion: 2
+      x: 0.7605634
+      y: 0.66871166
+      width: 0.23591548
+      height: 0.33128834
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 14
+      width: 67
+      height: -108
+    advance: 68
+    flipped: 0
+  - serializedVersion: 2
+    index: 52
+    uv:
+      serializedVersion: 2
+      x: 0.24295774
+      y: 0.006134957
+      width: 0.23943663
+      height: 0.32515338
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 13
+      width: 68
+      height: -106
+    advance: 69
+    flipped: 0
+  - serializedVersion: 2
+    index: 53
+    uv:
+      serializedVersion: 2
+      x: 0.51760566
+      y: 0.66871166
+      width: 0.23943663
+      height: 0.33128834
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 14
+      width: 68
+      height: -108
+    advance: 69
+    flipped: 0
+  - serializedVersion: 2
+    index: 54
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.33435583
+      width: 0.23943663
+      height: 0.33128834
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 14
+      width: 68
+      height: -108
+    advance: 69
+    flipped: 0
+  - serializedVersion: 2
+    index: 55
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.0030674934
+      width: 0.23943663
+      height: 0.32822084
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 14
+      width: 68
+      height: -107
+    advance: 69
+    flipped: 0
+  - serializedVersion: 2
+    index: 56
+    uv:
+      serializedVersion: 2
+      x: 0.2746479
+      y: 0.66871166
+      width: 0.23943663
+      height: 0.33128834
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 14
+      width: 68
+      height: -108
+    advance: 69
+    flipped: 0
+  - serializedVersion: 2
+    index: 57
+    uv:
+      serializedVersion: 2
+      x: 0.24295774
+      y: 0.33435583
+      width: 0.23943663
+      height: 0.33128834
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 14
+      width: 68
+      height: -108
+    advance: 69
+    flipped: 0
+  - serializedVersion: 2
+    index: 37
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.66871166
+      width: 0.27112675
+      height: 0.33128834
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 14
+      width: 77
+      height: -108
+    advance: 78
+    flipped: 0
+  - serializedVersion: 2
+    index: 46
+    uv:
+      serializedVersion: 2
+      x: 0.48591548
+      y: 0.23006135
+      width: 0.098591566
+      height: 0.101226985
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: -61
+      width: 28
+      height: -33
+    advance: 29
+    flipped: 0
+  - serializedVersion: 2
+    index: 32
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 1
+      width: 0
+      height: 0
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 0
+      height: 0
+    advance: 20
+    flipped: 0
+  - serializedVersion: 2
+    index: 9
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 1
+      width: 0
+      height: 0
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 0
+      height: 0
+    advance: 160
+    flipped: 0
+  m_KerningValues: []
+  m_PixelScale: 0.1
+  m_FontData: 
+  m_Ascent: 26
+  m_Descent: -94
+  m_DefaultStyle: 0
+  m_FontNames: []
+  m_FallbackFonts: []
+  m_FontRenderingMode: 0
+  m_UseLegacyBoundsCalculation: 0
+  m_ShouldRoundAdvanceValue: 1
+--- !u!21 &6061076526967425517
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: combofont
+  m_Shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 63efc10f423d0b3429353b7864e8c0bc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
