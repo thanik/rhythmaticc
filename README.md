@@ -1,4 +1,6 @@
 # rhythmaticc
+![Game GIF](Images/thumbnail.gif)
+
 Rhythmaticc is a game in a part of a dissertation about rhythm game level generation based on pre-composed music. The game has Mania-style mechanic that players have to press the falling objects in time with the music. More accurate players press, more score they get. The game is compatible with Windows only.
 
 ## Features
