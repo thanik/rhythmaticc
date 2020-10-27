@@ -5,6 +5,8 @@
 
 Rhythmaticc is a game in a part of a dissertation about rhythm game level generation based on pre-composed music. The game has Mania-style mechanic that players have to press the falling objects in time with the music. More accurate players press, more score they get. The game is compatible with Windows only.
 
+Executable binary with required assets can be found in [Release](../../releases) section.
+
 ## Features
 - Mania-style gameplay
 - 4 Keys or 6 Keys mode
